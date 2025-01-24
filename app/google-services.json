@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674583003497",
+    "project_id": "shopadvisor-7cb58",
+    "storage_bucket": "shopadvisor-7cb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674583003497:android:b50813f2eabc45791c3df8",
+        "android_client_info": {
+          "package_name": "com.sumiappcompany.shopadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674583003497-c9g7qtavnvu59kjuo12mb9lt3rosd54v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumiappcompany.shopadvisor",
+            "certificate_hash": "c76008ad657bf84874b349cd8eb414aa9d529db1"
+          }
+        },
+        {
+          "client_id": "674583003497-3dpgkh9bh02o3qlpm41jcq0nb04vhdti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pke1B3WIR1VWWS-Bwr2yBl4A4BltwNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674583003497-3dpgkh9bh02o3qlpm41jcq0nb04vhdti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
